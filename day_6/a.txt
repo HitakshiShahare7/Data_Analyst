@@ -1,0 +1,24 @@
+git commands::
+
+[ git init ] for iniatializing a new git repository.
+
+[ git remote add origin <url> ] add remote repository.
+
+[ git remote -v] show remote repositoreis.
+
+[ git add .] for changes.
+
+[ git commit -m "message"] for commiting changes.
+
+[ git status] for checking current status of directory.
+
+[ git branch <branch _name> ] for creating new branch.
+
+[ git pull origin <branch>] merge changes from remote.
+
+bootcoding : main folder
+   inside bootcoding :data analyst is sub folder
+       inside data analyst :day 1 foldder is located..inside that file is located
+           in that file we learn various programs and commit it on github
+            upto 
+            day 6 folder
