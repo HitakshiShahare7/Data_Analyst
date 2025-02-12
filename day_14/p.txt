@@ -1,0 +1,4 @@
+python libaries how to used /
+basics of ptyhon 
+basics programs in python 
+like hello world , print array etc

@@ -1,4 +1,0 @@
-i learn what is python ?
-basics libaries used in python 
-how libaries are used 
-and 1 basic python program.
