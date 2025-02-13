@@ -1,0 +1,4 @@
+today i learn some basic visualizations tools on power bi desktop 
+inside that i used pie charts ,bar graphs,kpis,and many more
+i made some basic visualizations like,walmart sales dashboard,accenture trade dashboards
+also i watched youtube vedio for designing dashboard.
