@@ -1,0 +1,8 @@
+we learn about colab 
+colab is platform where dataset is available in free ,that dataset we used for practising for visualization 
+we learn various command for performing operation on dataset 
+inside colab we click on new notewbook 
+we make  a copy pf dataset &give names as df called(dataframe)
+inside dataframe we load dataset 
+for performing operation on dataset 
+for remove duplicates,rename,remove ,_.. and etc for various operations 
