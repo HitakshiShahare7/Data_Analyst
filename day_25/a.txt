@@ -1,0 +1,7 @@
+ Difficulty_Level = 
+SWITCH(
+    TRUE(),
+    Mock_Test_Feedback[incorrect_answers] = 0, "Easy",
+    Mock_Test_Feedback[incorrect_answers] > 0 && Mock_Test_Feedback[incorrect_answers] <= 2, "Medium",
+    Mock_Test_Feedback[incorrect_answers] > 2, "Hard"
+)
