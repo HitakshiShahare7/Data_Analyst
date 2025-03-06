@@ -1,0 +1,4 @@
+Dashboard ka purpose kya hai?
+(e.g., "Ye dashboard interview performance analysis ke liye design kiya gaya hai, jisme hum candidate ke scores, feedback aur improvement areas ko track kar sakte hain.")
+Kaun kaun se key metrics show ho rahe hain?
+(e.g., "Isme candidate ka overall score, individual section-wise performance, aur average ratings ka analysis shamil hai.")
